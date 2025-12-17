@@ -5,6 +5,7 @@ public class SistemaMicro {
         Scanner sc= new Scanner(System.in);
         double tarifaBase=0;
 
+        System.out.println("HELLO WORLD");
         System.out.println("==== TIPOS DE RUTA ===");
         System.out.println("1. Corto (S/ 3.00)");
         System.out.println("2. Medio (S/ 5.00)");
