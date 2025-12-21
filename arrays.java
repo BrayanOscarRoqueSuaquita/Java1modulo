@@ -24,7 +24,7 @@ public class arrays {
         //imprimir numero repetido
         int[] numbers = {1,3,3,7,9,8,5,2,5};
 
-        System.out.println("Los números repetidos son:");
+
 
         for (int i = 0; i < numbers.length; i++) {
             for (int j = i + 1; j < numbers.length; j++) {
@@ -34,6 +34,7 @@ public class arrays {
                 }
             }
         }
+        System.out.println("Los números repetidos son:");
 
 
 
