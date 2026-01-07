@@ -51,7 +51,7 @@ public class arrayList {
         ArrayList<String> Nombres= new ArrayList<>();
         Nombres.add("pepe");
         Nombres.add("juan");
-        Nombres.add("penacho");
+        Nombres.add("luis");
         Nombres.add("yorch");
         Nombres.add("etesech");
         Nombres.add("tito");
